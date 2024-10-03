@@ -56,7 +56,7 @@ Moreover, the tool is designed with ease of use in mind, allowing even novice us
 
 `git clone https://github.com/4lph4shell/DDosSlayer-Alpha-Edition.git`
 
-`cd DDoSlayer`
+`cd DDosSlayer-Alpha-Edition`
 
 `chmod +x DDoSlayer.py`
 
