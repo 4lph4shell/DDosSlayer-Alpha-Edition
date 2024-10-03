@@ -35,16 +35,16 @@ print("""
 _________________________________________________________________________________________________________
                \033[0m   
       """)
-print(colored("Author   : Chris 'SaintDruG' Abou-Chabke", 'green'))
-print(colored("Website : https://www.blackhatethicalhacking.com", 'magenta'))
-print(colored("Github   : https://github.com/blackhatethicalhacking", 'red'))
-print(colored("YouTube : https://www.youtube.com/channel/UC7-AsunT7zO-ny5-U8glqkw", 'green'))
-print(colored("Linkedin : https://www.linkedin.com/company/black-hat-ethical-hacking/", 'magenta'))
-print(colored("Twitter : https://twitter.com/secur1ty1samyth", 'green'))
+print(colored("Author   : Alpha Shell", 'green'))
+print(colored("Website : https://www.4lph4.ir/", 'magenta'))
+print(colored("Github   : https://github.com/4lph4shell", 'red'))
+print(colored("YouTube : https://www.youtube.com/@4lph4co", 'green'))
+print(colored("Telegram : https://t.me/ALPH4ir", 'magenta'))
+print(colored("TelegramTopic : https://t.me/ALPH4Co", 'green'))
 print(colored("Offense is always the best defense!", 'magenta'))
 print(colored("This tool is written for Educational purposes only - helping the defensive team look into how such attacks take place.", 'cyan'))
 print(colored("BHEH Is not responsible for misusing it and must have an NDA signed to perform such attacks", 'red'))
-print(colored("You are using DDoSlayer Version: 2.0", 'yellow'))
+print(colored("You are using DDoSlayer AlphaShellEdition Version: 1.0", 'yellow'))
 print()
 
 # Prompt for target IP and port
